@@ -2,7 +2,7 @@
 
 **Clarifications::**
 
-  * Vignette update to point to how to report bugs.
+  * Vignette update indicating preferred mode of bug reports and feature requests.
 
 # ggenealogy 1.0.1
 

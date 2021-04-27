@@ -727,10 +727,8 @@ sum(DCChild$school == "University of London")
 
 The examples above demonstrate that users can quickly and flexibly parse descendant branches. The swiftness comes from \pkg{ggenealogy} functions that allow for fast parent-child traversals, such as \code{getChild()}, \code{getDescendants()}, \code{getBranchQuant()}, and \code{getBranchQual()}. The flexibility comes from data frame manipulation functions in base R that can be used in conjunction with the parent-child traversal methods.
 
-\section{Conclusions}
+\section{Bug reports and feature requests}
 
-The \pkg{ggenealogy} package offers various plotting tools that can assist those studying genealogical lineages in the data exploration phases. As each plot comes with its advantages and disadvantages, we recommend for users to explore several of the available visualization tools.
-
-This vignette briefly introduced some of the capabilities of the \pkg{ggenealogy} package. Inevitably, new approaches will necessitate new features in subsequent versions and might reveal unforeseen bugs. Please post comments, suggestions, questions, and bug reports as an issue on the ggenealogy GitHub website \url{https://github.com/lindsayrutter/ggenealogy}.
+Please post comments, suggestions, questions, and bug reports as an issue on the ggenealogy GitHub website \url{https://github.com/lindsayrutter/ggenealogy}.
 
 \end{document}
