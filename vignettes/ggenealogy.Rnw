@@ -729,6 +729,6 @@ The examples above demonstrate that users can quickly and flexibly parse descend
 
 \section{Bug reports and feature requests}
 
-Please post comments, suggestions, questions, and bug reports as an issue on the ggenealogy GitHub website \url{https://github.com/lindsayrutter/ggenealogy}.
+Please post comments, suggestions, questions, and bug reports under the Issues tab on the ggenealogy GitHub website \url{https://github.com/lindsayrutter/ggenealogy}.
 
 \end{document}
