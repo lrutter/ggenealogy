@@ -4,7 +4,11 @@
 \name{sbGeneal}
 \alias{sbGeneal}
 \title{Soybean data}
-\format{a \code{RData} instance, 1 row per each child-parent relationship between soybean varieties}
+\format{
+a \code{RData} instance, 1 row per each child-parent relationship between soybean varieties
+
+A data frame with 412 rows and 7 variables
+}
 \usage{
 data(sbGeneal)
 }

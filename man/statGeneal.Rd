@@ -4,7 +4,11 @@
 \name{statGeneal}
 \alias{statGeneal}
 \title{Academic statistics data}
-\format{a \code{RData} instance, 1 row per each individual in the Mathematics Genealogy Project with an advanced degree in statistics. If the child had a parent who was also listed as having received an advanced degree in statistics in the Mathematics Genealogy project, then the row also contains the parental information.}
+\format{
+a \code{RData} instance, 1 row per each individual in the Mathematics Genealogy Project with an advanced degree in statistics. If the child had a parent who was also listed as having received an advanced degree in statistics in the Mathematics Genealogy project, then the row also contains the parental information.
+
+A data frame with 8165 rows and 6 variables
+}
 \usage{
 data(statGeneal)
 }

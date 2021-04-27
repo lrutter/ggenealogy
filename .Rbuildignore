@@ -4,4 +4,3 @@
 ^CRAN-RELEASE$
 ^revdep$
 ^\.travis\.yml$
-^\install_texlive\.R$
