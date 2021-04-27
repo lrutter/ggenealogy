@@ -1,3 +1,9 @@
+# ggenealogy 1.0.2
+
+**Clarifications::**
+
+  * Vignette update to point to how to report bugs.
+
 # ggenealogy 1.0.1
 
 **Bug fixes::**
