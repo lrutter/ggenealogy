@@ -58,7 +58,7 @@ rm(list=ls())
 
 \section{Citation}
 
-To cite the \pkg{ggenealogy} package, please use:
+Please cite \pkg{ggenealogy} as follows:
 
 Rutter L, VanderPlas S, Cook D, Graham MA (2019). ggenealogy: An R Package for Visualizing Genealogical Data. Journal of Statistical Software, 89(13), 1-31. doi: 10.18637/jss.v089.i13
 
@@ -729,6 +729,6 @@ The examples above demonstrate that users can quickly and flexibly parse descend
 
 \section{Bug reports and feature requests}
 
-Please post questions, feature requests, and bug reports under the Issues tab on the GitHub website \url{https://github.com/lindsayrutter/ggenealogy}.
+Please post questions, feature requests, and bug reports under the Issues tab on GitHub \url{https://github.com/lindsayrutter/ggenealogy}.
 
 \end{document}
